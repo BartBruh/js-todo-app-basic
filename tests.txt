@@ -1,0 +1,23 @@
+TESTS:
+
+D add task and clear main input
+D add task with no trailing whitespaces
+D add no task for input with only whitespaces and clear main input
+
+D check task button
+D delete task button
+
+D edit task
+D edit task remove whitespaces
+D edit save with Enter
+D edit save with blur
+D edit revert with Escape
+
+D delete task when task edited to have only whitespaces and saved with Enter
+D delete task when task edited to have only whitespaces and saved with blur
+
+D edit textarea height increase with text addition
+D edit textarea height decrease with text removal
+
+D while editing scroll to top of element if it is above visible area of task list pane
+D while editing scroll to bottom of element if it is under visible area of task list pane
